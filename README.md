@@ -1,4 +1,6 @@
 # chicago_crime
+
+This repository is an exploratory analysis of reported crime in Chicago between the years 2001 through 2022
  
 <img width="640" alt="Screenshot 2023-11-11 at 5 22 53 PM" src="https://github.com/donmarcolaureano/chicago_crime/assets/140132043/b769dc9a-9db5-4dc5-af45-acff8d37bb69">
 
