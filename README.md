@@ -13,6 +13,13 @@ This repository is an exploratory analysis and visualizations of reported crime 
 - There seems to be a drop in crime in February
 - <img width="905" alt="Screenshot 2024-05-02 at 3 25 57 PM" src="https://github.com/donmarcolaureano/chicago_crime/assets/140132043/6e32eff2-902c-44ce-8104-1f22b5a6e9c7">
 
+## Crimes By Month
+<img width="934" alt="Screenshot 2024-05-02 at 3 28 14 PM" src="https://github.com/donmarcolaureano/chicago_crime/assets/140132043/5f8f7dec-106f-4ce6-be6c-a4eab625692f">
+<img width="911" alt="Screenshot 2024-05-02 at 3 28 27 PM" src="https://github.com/donmarcolaureano/chicago_crime/assets/140132043/4f7d3bfe-389a-46cb-a6fa-0f35fb3a4d2d">
+<img width="896" alt="Screenshot 2024-05-02 at 3 28 42 PM" src="https://github.com/donmarcolaureano/chicago_crime/assets/140132043/42ccc3c5-1280-42bc-87fb-ea4a57410da5">
+<img width="903" alt="Screenshot 2024-05-02 at 3 28 56 PM" src="https://github.com/donmarcolaureano/chicago_crime/assets/140132043/1e40d6ed-ec5a-46a5-9ae2-94d8c3db2f5d">
+<img width="918" alt="Screenshot 2024-05-02 at 3 29 11 PM" src="https://github.com/donmarcolaureano/chicago_crime/assets/140132043/11eefccd-e203-4f40-a9cb-da041749247d">
+
 
 
 ##
