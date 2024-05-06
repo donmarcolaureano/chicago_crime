@@ -21,7 +21,7 @@ This repository is an exploratory analysis and visualizations of reported crime 
 <img width="918" alt="Screenshot 2024-05-02 at 3 29 11 PM" src="https://github.com/donmarcolaureano/chicago_crime/assets/140132043/11eefccd-e203-4f40-a9cb-da041749247d">
 
 
-
+##
 ##
 
 ## Tableau Visualization Of Crime Highlights 
@@ -31,5 +31,9 @@ This repository is an exploratory analysis and visualizations of reported crime 
 
 https://public.tableau.com/views/ChicagoCrime_16993321257230/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+##
+##
+##
+##
 ##
 ##
